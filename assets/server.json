@@ -19,7 +19,7 @@
     {
       "id": 3,
       "name": "Creole Rice Side Dish Recipe",
-      
+      "description": "Konusu futbol olan bir animedir",
       "stars": 4,
       "img": "assets/images/png/1141570.png"
       
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "name": "Cuban Fufu",
-      
+      "description": "Konusu futbol olan bir animedir",
       "stars": 5,
       "img": "assets/images/jpg/peakpx.jpg"
       
@@ -35,6 +35,7 @@
     {
       "id": 5,
       "name": "Chicken biriani",
+      "description": "Konusu futbol olan bir animedir",
       "stars": 4,
       "img": "assets/images/jpg/5lpif5izwoo41.jpg"
       
